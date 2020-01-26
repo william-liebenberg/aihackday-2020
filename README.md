@@ -1,2 +1,5 @@
-# aihackday-2020
-Content for the AI Hackday (https://aihackday.com)
+![aihackday](./images/poster.jpg)
+
+# AI Hack Day 2020
+
+Content for [AI Hack Day](https://aihackday.com)
