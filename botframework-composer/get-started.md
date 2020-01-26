@@ -1,5 +1,7 @@
 # Getting Started - Bot Composer
 
+Follow this guide to gettings started with the [Microsoft Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer)
+
 ## Prerequisites
 
 We need to install a few prerequisites before we can start up the Bot Composer.
@@ -39,7 +41,7 @@ yarn build
 
 Note: This can take few minutes.
 
-### Troubleshooting
+## Troubleshooting
 
 Sometimes you may have trouble getting the build to succeed. Running the `yarn tableflip` command will automatically delete, reinstall and rebuild all of the dependencies.
 
