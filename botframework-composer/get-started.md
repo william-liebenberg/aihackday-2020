@@ -59,7 +59,7 @@ yarn startall
 
 ## Open Bot Composer
 
-Composer is a web application. So once the web app has been `Compiled successfully`, open a browser and navigate to the address displayed. For example http://localhost:3000.
+Once the Composer app has `Compiled successfully`, open a browser and navigate to the address displayed. For example http://localhost:3000.
 
 ![composer running](./images/composer-running.png)
 
