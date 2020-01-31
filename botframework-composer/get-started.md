@@ -65,14 +65,4 @@ Once the Composer app has `Compiled successfully`, open a browser and navigate t
 
 ![composer in browser](./images/composer.png)
 
-## More Documentation
-
-[Common Expression Language ](https://github.com/microsoft/BotBuilder-Samples/tree/master/experimental/common-expression-language)
-
-[Pre-built functions](https://github.com/microsoft/BotBuilder-Samples/blob/master/experimental/common-expression-language/prebuilt-functions.md)
-
-[Language Generation (LG)](https://github.com/microsoft/BotBuilder-Samples/blob/master/experimental/language-generation/docs/lg-file-format.md)
-
-[Memory Model](https://github.com/microsoft/BotBuilder-Samples/blob/master/experimental/adaptive-dialog/docs/memory-model-overview.md)
-
-[Getting input from user](https://github.com/microsoft/BotFramework-Composer/blob/stable/docs/how-to-ask-for-user-input.md)
+Done!
